@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "name": "Windows",
+            "intelliSenseMode": "gcc-arm",
+            "includePath": [
+                "${workspaceFolder}/app/web/**",
+                "${workspaceFolder}/app/web/inc/**",
+                "${workspaceFolder}/app/web/arch/**",
+                "${workspaceFolder}/app/web/port/**",
+                "${workspaceFolder}/bsp/inc/**",
+                "${workspaceFolder}/lib/HAL_lib/inc/**",
+                "${workspaceFolder}/lib/startup/inc/**",
+                "${workspaceFolder}/thirdParty/LwIP/src/**",
+                "${workspaceFolder}/thirdParty/LwIP/src/include/**",
+                "${workspaceFolder}/thirdParty/LwIP/src/include/compat/**",
+                "${workspaceFolder}/thirdParty/LwIP/src/include/netif/**",
+                "${workspaceFolder}/thirdParty/LwIP/src/include/lwip/**",
+                "${workspaceFolder}/thirdParty/LwIP/src/include/lwip/apps/**",
+                "${workspaceFolder}/thirdParty/LwIP/src/include/lwip/priv/**",
+                "${workspaceFolder}/thirdParty/LwIP/src/include/lwip/prot/**",
+                "${workspaceFolder}/thirdParty/FreeRTOS/include/**",
+                "${workspaceFolder}/thirdParty/FreeRTOS/portable/IAR/ARM_CM3/**",
+                "${workspaceFolder}/../../../github.com/ARM-software/CMSIS_5/CMSIS/Core/Include/**",
+                "${GITWORK_PATH}/github.com/ARM-software/CMSIS_5/CMSIS/Core/Include/**",
+                "C:/Program Files (x86)/IAR Systems/Embedded Workbench 7.5/arm/inc/c/**",
+                "C:/Program Files (x86)/IAR Systems/Embedded Workbench 8.3/arm/inc/c/**",
+                "C:/Program Files (x86)/IAR Systems/Embedded Workbench 8.4/arm/inc/c/**",
+                "C:/Program Files/IAR Systems/Embedded Workbench 9.0/arm/inc/c/**",
+                "C:/Program Files/IAR Systems/Embedded Workbench 9.0/arm/inc/c/aarch32/**"
+            ],
+            "cStandard": "c99",
+            "defines": [
+                "__MM3U1"
+            ]
+        }
+    ],
+    "version": 4
+}

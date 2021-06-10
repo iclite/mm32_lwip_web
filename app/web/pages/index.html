@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>MM32 Demo Page</title>
+        <link href="css/style.css" type="text/css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="title"> MM32 Web Demo Page <i id="led-btn" onclick="toggleLed()" class="icon-switch"></i></h1>
+        <h1 class="cmd"> >>> echo "Hello World!" </h1>
+        <h1 class="cmd"> Hello World! </h1>
+        <h1 class="cmd">
+            >>>
+            <span
+                class="txt-rotate"
+                data-period="2000"
+                data-rotate='[ 
+                "This is MM32 demo page.", 
+                "http://www.mindmotion.com.cn",
+                "Welcome to use MM32 MCU."]'
+            ></span>
+        </h1>
+        <script src="js/main.js"></script>
+    </body>
+</html>

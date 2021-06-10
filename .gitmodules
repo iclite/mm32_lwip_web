@@ -1,0 +1,9 @@
+[submodule "lib/startup"]
+	path = lib/startup
+	url = https://github.com/PYGC/mm32_startup.git
+[submodule "thirdParty/FreeRTOS"]
+	path = thirdParty/FreeRTOS
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "thirdParty/LwIP"]
+	path = thirdParty/LwIP
+	url = https://git.savannah.gnu.org/git/lwip.git
