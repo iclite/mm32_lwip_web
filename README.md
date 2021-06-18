@@ -2,7 +2,7 @@
 
 MindMotion MM32F3277 LwIP HTTP Server Web Demo.
 
-[Live Demo]https://mm32-web.github.io/
+[Live Demo](https://mm32-web.github.io/)
 
 ## Target
 
