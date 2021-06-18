@@ -2,10 +2,12 @@
 
 MindMotion MM32F3277 LwIP HTTP Server Web Demo.
 
+[Live Demo]https://mm32-web.github.io/
+
 ## Target
 
-- Chip: MM32F3277G9P
-- Board: MindMotion MB-039
+- Chip: MM32F3277G9P [PDF](https://github.com/PYGC/mm32_docs_action/blob/master/ds/DS_MM32F3270_V1.01_SC.pdf)
+- Board: MindMotion MB-039 [PDF](https://github.com/PYGC/mm32_hardware/blob/master/schematic/MB-049.pdf)
 - IDE: IAR v7.80.4 or v8.50.9
 
 ## Cloning this repository
